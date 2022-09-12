@@ -1,0 +1,37 @@
+.footer-heading >h1{
+  color: black;
+  font-size:35px;
+  font-weight: bolder;
+}
+.footer a >i {
+  border:5px solid black;
+  border-radius: 200px;
+  padding: 10px 20px;
+  font-size: 50px;
+  color: black;
+}
+.footer i:hover {
+  font-size: 70px;
+  color: black;
+}
+.footer >a{
+  color: black;
+  margin: 5px 5px;
+}
+.footer-heading{
+  border-radius: 20px;
+}
+
+.footer-heading-logo >h1{
+  color: black;
+  font-size:35px;
+  font-weight: bolder;
+}
+.footer-heading-logo >h4{
+color: black;
+font-size: 12px;
+text-align: center;
+}
+.footer-heading-logo >img{
+width: 30%;  
+}

@@ -1,0 +1,55 @@
+video{
+  width: 100%;
+}
+ .home-container{
+   width: 100%;
+ }
+ .home-container img{
+   border-radius: 0px !important;
+   width: 100%;
+ }
+ .project-section >h1{
+   font-size: 25px;
+  text-align: center;
+  color: white;
+}
+.project-section >h2{
+
+  padding: 10px 50px;
+  font-size: 20px;
+  text-align: center;
+
+  color: #aaaaaa;
+}
+.project-section >h3{
+  padding: 10px 50px;
+  font-size: 14px;
+  font-weight: normal !important;
+  text-align: center;
+  color: #aaaaaa;
+}
+.gif >video{
+  width: 100%;
+  border-radius: 20px;
+}
+.mastermind >img{
+  width: 100%;
+}
+.mastermind-text >h1{
+color: white;
+font-size: 35px;
+text-align: left;
+}
+.mastermind-text >p{
+  color: white;
+  font-size: 20px;
+  }
+  .mastermind-text{
+    padding: 0px 100px;
+  }
+  @media (max-width:480px) {
+
+     .mastermind-text{
+    padding: 15px;
+  } 
+  }

@@ -1,0 +1,20 @@
+.team-section img{
+    width: 100%;
+    max-width: 300px;
+}
+.team-section h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.team-section p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.team-section{
+    padding: 0px 30px;
+    
+}
